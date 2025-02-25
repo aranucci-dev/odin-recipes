@@ -1,0 +1,68 @@
+body {
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title {
+    text-align: center;
+    border-style: groove;
+    border-radius: 50%;
+    border-color: aqua;
+    background-color: aquamarine;
+}
+
+.homelist {
+    font-size: 18px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+h2.ingred {
+    text-align: center;
+    border-style: groove;
+    border-radius: 25%;
+    border-color: brown;
+    background-color: blanchedalmond;
+}
+
+
+h2.steps {
+    text-align: center;
+    border-style: groove;
+    border-radius: 40%;
+    border-color: brown;
+    background-color: blanchedalmond;
+}
+
+ul {
+    font-weight: 800;
+    font-size: 18px;
+}
+
+ol {
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.recipedesc {
+    font-weight: 800;
+    text-align: center;
+    font-size: 24px;
+}
+
+.homebutton {
+    background-color: coral;
+    font-weight: 800;
+    font-size: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
